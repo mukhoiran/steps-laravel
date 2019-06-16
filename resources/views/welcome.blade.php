@@ -93,6 +93,13 @@
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
+                <hr>
+                <ol>
+                  <li>Install Composer : url https://getcomposer.org/</li>
+                  <li>Install laravel to your OS : #composer global require laravel/installer</li>
+                  <li>Create folder for laravel project file</li>
+                  <li>Install laravel to the folder : #laravel new</li>
+                </ol>
             </div>
         </div>
     </body>
