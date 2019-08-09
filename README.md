@@ -1,2 +1,2 @@
 # steps-laravel
-Documentation before starting development laravel
+Steps before starting development with laravel
